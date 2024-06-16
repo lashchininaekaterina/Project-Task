@@ -1,0 +1,8 @@
+number of clusters: 7, siluette coefficients values: 
+cluster1 0.697248
+cluster2 1.5
+cluster3 1.1521
+cluster4 0.507674
+cluster5 1.5
+cluster6 1.5
+cluster7 nan
